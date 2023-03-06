@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Pablo Bort, a data scientis with 1 year of experience in this field. My interests include machine learning and data visualization.
+Hi, I'm Pablo Bort, a data scientis with 1 year of experience in this field. My interests include machine learning, data analytics and data visualization.
 
 ## Skills
 
