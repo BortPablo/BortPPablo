@@ -21,7 +21,7 @@ Hi, I'm Pablo Bort, a data scientis with 1 year of experience in this field. My 
 
 ### Data science internship, CPS INFRAESTRUCTURAS MOVILIDAD Y MEDIO AMBIENTE S.L.
 - Contributed to the development of several data analysis and visualization projects using Python, SQL and Qlik.
-- Collaborated with a team of developers in mahcine learning projects using Python.
+- Collaborated with a team of developers in machine learning projects using Python.
 
 ## Education
 
