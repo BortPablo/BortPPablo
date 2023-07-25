@@ -12,6 +12,7 @@ Hi, I'm Pablo Bort, a data scientis with 1 year of experience in this field. My 
 - [Project 1](https://github.com/BortPablo/calculator-test): A simple example of a calculator showing how I usually work in python.
 - [Project 2](https://github.com/BortPablo/chatgpt-integration): Chatgpt bot integrated into makefile to make fast questions and answers.
 - [Project 3](https://github.com/BortPablo/Stocks-playground): An example of how I organize a machine learning project.
+- [Project 4](https://github.com/BortPablo/poker): Personal project concerning probabilities in poker (Texas Hold'em).
 
 ## Work Experience
 
