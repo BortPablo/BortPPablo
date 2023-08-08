@@ -11,6 +11,7 @@ Hi, I'm Pablo Bort, a data scientis with 1 year of experience in this field. My 
 
 - [Project 1](https://github.com/BortPablo/calculator-test): A simple example of a calculator showing how I usually work in python.
 - [Project 2](https://github.com/BortPablo/poker): Personal project concerning probabilities in poker (Texas Hold'em).
+- [project 3](https://github.com/BortPablo/turbine_predictive_maintenance): Personal project improving methodology and models of master thesis for turbine predictive maintenance.
 
 ## Work Experience
 
