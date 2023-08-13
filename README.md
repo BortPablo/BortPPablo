@@ -2,13 +2,6 @@
 
 Hi, I'm Pablo Bort, a data scientis with 2 years of experience in this field. My interests include machine learning, data analytics and data visualization. If you need any more information check out my portfolio [here](https://bortpablo.github.io/).
 
-## Skills
-
-- Python
-- SQL
-- Docker
-- MLflow
-
 ## Projects
 
 - [Project 1](https://github.com/BortPablo/calculator-test): A simple example of a calculator showing how I usually work in python.
