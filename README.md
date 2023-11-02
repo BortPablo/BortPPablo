@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Pablo Bort, a data scientis with 2 years of experience in this field. My interests include machine learning, data analytics and data visualization. If you need any more information check out my portfolio [here](http://18.185.100.254/).
+Hi, I'm Pablo Bort, a data scientis with 2 years of experience in this field. My interests include machine learning, data analytics and data visualization. If you need any more information check out my portfolio [here](http://52.59.220.159/).
 
 ## Projects
 
